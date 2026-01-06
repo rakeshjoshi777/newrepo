@@ -14,3 +14,6 @@ newww bug.
 
 
 another fix msg for pink code 
+
+
+another fix msg for purple mode.
