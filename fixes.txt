@@ -11,3 +11,6 @@ one more detected and fixed.
 
 
 newww bug.
+
+
+another fix msg for pink code 
