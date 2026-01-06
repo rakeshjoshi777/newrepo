@@ -2,14 +2,9 @@ this is my 2nd file
 adding more content.
 
 
-<<<<<<< HEAD
 add another message.
 
 
 gdgdgd
-=======
 
-
-
-gggggdsg
->>>>>>> bug-fix
+add another file.
